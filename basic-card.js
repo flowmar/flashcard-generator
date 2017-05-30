@@ -10,6 +10,8 @@ function BasicCard(front, back) {
     this.back = back;
 }
 
+module.exports = BasicCard;
+
 var card1 = new BasicCard("What is the capital of Maryland?", "Annapolis");
 var card2 = new BasicCard("What is the meaning of life", "Pizza, of course");
 
