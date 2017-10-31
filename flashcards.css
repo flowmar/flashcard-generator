@@ -1,0 +1,12 @@
+html {
+  background-color: rgba(4, 61, 9, 0.822);
+}
+
+#banner {
+  background-color: black;
+  color: ghostwhite;
+}
+
+#saved-card-list {
+  height: 20vh;
+}
